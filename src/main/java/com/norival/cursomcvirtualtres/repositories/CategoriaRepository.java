@@ -7,8 +7,6 @@ import com.norival.cursomcvirtualtres.domain.Categoria;
 
 @Repository
 public interface CategoriaRepository extends JpaRepository<Categoria, Integer> {
-	//Operações de acesso a dados como busca , salvar , alterar , delatar
-	
-	
-	
+	// Operações de acesso a dados como busca , salvar , alterar , delatar
+
 }

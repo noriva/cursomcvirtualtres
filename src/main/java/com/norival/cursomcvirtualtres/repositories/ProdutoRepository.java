@@ -7,8 +7,6 @@ import com.norival.cursomcvirtualtres.domain.Produto;
 
 @Repository
 public interface ProdutoRepository extends JpaRepository<Produto, Integer> {
-	//Operações de acesso a dados como busca , salvar , alterar , delatar
-	
-	
-	
+	// Operações de acesso a dados como busca , salvar , alterar , delatar
+
 }
